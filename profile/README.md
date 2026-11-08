@@ -27,10 +27,6 @@
 
 Ala Industrial supports Minecraft 26.3 and 26.2. See each repository for the exact versions.
 
-## Modpack
-
-**[Ala: Full Load](https://github.com/AlaVatra/AlaFullLoad)** is a tech modpack built around Ala Industrial.
-
 ## Websites and studio
 
 - **[AlaCraft](https://alacraft.day)** is a helper site for Minecraft players: tools, crafting recipes and generators.
